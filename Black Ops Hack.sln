@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Black Ops Hack", "Black Ops Hack\Black Ops Hack.csproj", "{CE94E6A3-C908-4274-894C-A601BC385111}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE94E6A3-C908-4274-894C-A601BC385111}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE94E6A3-C908-4274-894C-A601BC385111}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE94E6A3-C908-4274-894C-A601BC385111}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE94E6A3-C908-4274-894C-A601BC385111}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F50BD0F-61B4-4A6D-A92F-FA58A425E4C5}
+	EndGlobalSection
+EndGlobal
